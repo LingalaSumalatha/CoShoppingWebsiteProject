@@ -1,10 +1,10 @@
 # CoShopping Website Project
 
-This project is a part of my CSS learning process, where I have built a mock-up of an e-commerce website that includes various CSS features such as flex layouts, background images, hover effects, and responsive design using media queries.
+This project is a part of my CSS learning process. I have built a mock-up of an e-commerce website that includes various CSS features such as flex layouts, background images, hover effects, and responsive design using media queries.
 
 ## Project Overview
 
-This is a simple web page that mimics an online shopping site, showcasing different product categories like furniture, electronics, stationery, and more. The design uses various CSS properties to style the navigation bar, search bar, product sections, and footer. Media queries are used to ensure responsiveness across different screen sizes.
+This simple web page mimics an online shopping site, showcasing different product categories like furniture, electronics, stationery, and more. The design uses various CSS properties to style the navigation bar, search bar, product sections, and footer. Media queries are used to ensure responsiveness across different screen sizes.
 
 ### Features
 
